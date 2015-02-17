@@ -7,7 +7,7 @@ import org.testng.annotations.AfterMethod;
 public class MobileTest {
   @Test
   public void f() {
-	  System.out.println("running test");
+	  System.out.println("running tests");
 	  
   }
   @BeforeMethod
