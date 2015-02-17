@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="testList" parallel="tests" thread-count="5">
   <!--<
-  test name="App on_android_GalaxyS5">
+  test name="Appon_android_GalaxyS">
     <parameter name="deviceID" value="0149BCA71700D01F">
       <classes>
         <class name="mobiletest.testng.MobileTest.java" />
