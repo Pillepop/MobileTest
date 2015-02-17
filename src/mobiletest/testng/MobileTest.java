@@ -8,6 +8,7 @@ public class MobileTest {
   @Test
   public void f() {
 	  System.out.println("running test");
+	  
   }
   @BeforeMethod
   public void beforeMethod() {
